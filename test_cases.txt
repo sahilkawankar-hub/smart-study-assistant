@@ -1,0 +1,8 @@
+Test 1: "Plan my study"
+Expected: Study plan response
+
+Test 2: "Remind me at 6 PM"
+Expected: Reminder saved
+
+Test 3: "Check my progress"
+Expected: Progress summary
