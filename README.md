@@ -10,7 +10,7 @@ This project is a simple AI study helper built for the Kaggle Agents Intensive C
 
 ## Notebook Link
 The working notebook is available here:
-[YOUR_KAGGLE_NOTEBOOK_LINK]
+https://www.kaggle.com/code/sahilkavankar/smart-study-assistant
 
 ## Description
 The goal of this project is to support students with quick and structured study help.  
